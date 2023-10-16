@@ -8,6 +8,13 @@ I believe that the heart of software development lies in understanding the intri
 ## Problem solving
 As a software developer, my unwavering passion for problem solving is at the core of my approach. I see every challenge as an opportunity to dissect complex issues, analyze them from multiple angles, and devise elegant solutions. With an innate curiosity and an insatiable appetite for learning, I thrive on untangling intricate technical puzzles, whether it's debugging a piece of code, optimizing performance bottlenecks, or architecting innovative software systems. My problem-solving skills are honed not only by my technical acumen but also by my ability to listen, empathize, and deeply understand the needs of end-users and stakeholders. This holistic perspective allows me to translate intricate technical challenges into user-friendly, value-driven solutions that stand the test of time.
 
+# Languages and tools
+Android mobile development
+iOS mobile development
+Web development 
+Desktop application development
+
+
 
 
 
