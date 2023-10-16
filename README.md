@@ -1,6 +1,6 @@
-### Hi there , I'm Osborn Maja 👋
+# Hi there , I'm Osborn Maja 👋
 
-### About me
+# About me
 
 
 <!--
