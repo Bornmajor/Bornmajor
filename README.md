@@ -8,8 +8,16 @@ I believe that the heart of software development lies in understanding the intri
 ## Problem solving
 As a software developer, my unwavering passion for problem solving is at the core of my approach. I see every challenge as an opportunity to dissect complex issues, analyze them from multiple angles, and devise elegant solutions. With an innate curiosity and an insatiable appetite for learning, I thrive on untangling intricate technical puzzles, whether it's debugging a piece of code, optimizing performance bottlenecks, or architecting innovative software systems. My problem-solving skills are honed not only by my technical acumen but also by my ability to listen, empathize, and deeply understand the needs of end-users and stakeholders. This holistic perspective allows me to translate intricate technical challenges into user-friendly, value-driven solutions that stand the test of time.
 
-# Knowledge and tool base
-![Android icon](/images/android_888839.png | width=100)
+# Languages and tools
+
+<img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/fb2a11a6-95cc-4201-b4c7-3d54346bd63c" width="100" height="100">
+<img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/31040edc-ccf8-486a-93d1-db4f80f77bc7" width="100" height="100">
+<img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/195b7cee-ded2-4ccf-be80-60ac044fa44f" width="100" height="100">
+<img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/6d8d9a10-2565-48b0-b6bc-34c287e157e1" width="100" height="100">
+<img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/c55c1155-aca0-43bd-9c8f-57439382cba1" width="100" height="100">
+<img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/73851e9d-2a27-4200-aa76-8359bc1b9eb7" width="100" height="100">
+
+
 
 
 
