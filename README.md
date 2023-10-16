@@ -1,7 +1,7 @@
 # Hi there , I'm Osborn Maja 👋
 
 # About me
-
+Passionate software developer with a diverse skill set that spans software engineering, web development, mobile app development, and user experience (UX) design. With a deep-rooted commitment to my craft, my core principles revolve around creating applications that not only meet the needs of users and stakeholders but also uphold the principles of universal usability
 
 <!--
 **Bornmajor/Bornmajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
