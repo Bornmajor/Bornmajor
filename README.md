@@ -17,7 +17,7 @@ As a software developer, my unwavering passion for problem solving is at the cor
 <img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/c55c1155-aca0-43bd-9c8f-57439382cba1" width="100" height="100">
 <img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/73851e9d-2a27-4200-aa76-8359bc1b9eb7" width="100" height="100">
 <img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/32f7de24-467e-43fd-92e2-1a2098e612c9" width="100" height="100">
-
+<img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/0e8033f9-ff1b-47ae-9c62-2ba04bee2a3f" width="100" height="100">
 
 
 
