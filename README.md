@@ -2,7 +2,7 @@
 
 # About me
 Passionate software developer with a diverse skill set that spans software engineering, web development, mobile app development, and user experience (UX) design. With a deep-rooted commitment to my craft, my core principles revolve around creating applications that not only meet the needs of users and stakeholders but also uphold the principles of universal usability
-# Goals
+# Design goals
 ## Usability
 I believe that the heart of software development lies in understanding the intricate balance between technology and human interaction. This belief has led me to explore not only the technical aspects but also the art of creating user-friendly, accessible, and visually appealing applications. With a background in UX design, I strive to ensure that my creations are intuitive, engaging, and universally accessible to all.
 ## Problem solving
