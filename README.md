@@ -1,23 +1,67 @@
 # Hi there , I'm Osborn Maja 👋
 
-# About me
-Passionate software developer with a diverse skill set that spans software engineering, web development, mobile app development, and user experience (UX) design. With a deep-rooted commitment to my craft, my core principles revolve around creating applications that not only meet the needs of users and stakeholders but also uphold the principles of universal usability
-# Design goals
-## Usability
-I believe that the heart of software development lies in understanding the intricate balance between technology and human interaction. This belief has led me to explore not only the technical aspects but also the art of creating user-friendly, accessible, and visually appealing applications. With a background in UX design, I strive to ensure that my creations are intuitive, engaging, and universally accessible to all.
-## Problem solving
-As a software developer, my unwavering passion for problem solving is at the core of my approach. I see every challenge as an opportunity to dissect complex issues, analyze them from multiple angles, and devise elegant solutions. With an innate curiosity and an insatiable appetite for learning, I thrive on untangling intricate technical puzzles, whether it's debugging a piece of code, optimizing performance bottlenecks, or architecting innovative software systems. My problem-solving skills are honed not only by my technical acumen but also by my ability to listen, empathize, and deeply understand the needs of end-users and stakeholders. This holistic perspective allows me to translate intricate technical challenges into user-friendly, value-driven solutions that stand the test of time.
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-majasociet.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://majasociet.netlify.app/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Osborn_Maja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osborn-maja-8811a81b3/)
+[![Dribbble Badge](https://img.shields.io/badge/Dribbble-osbornmaja-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/osbornmaja)
+[![Email Badge](https://img.shields.io/badge/Email-osbornmaja@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osbornmaja@gmail.com)
 
-# Languages and tools
 
-<img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/fb2a11a6-95cc-4201-b4c7-3d54346bd63c" width="100" height="100">
-<img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/31040edc-ccf8-486a-93d1-db4f80f77bc7" width="100" height="100">
-<img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/195b7cee-ded2-4ccf-be80-60ac044fa44f" width="100" height="100">
-<img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/6d8d9a10-2565-48b0-b6bc-34c287e157e1" width="100" height="100">
-<img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/c55c1155-aca0-43bd-9c8f-57439382cba1" width="100" height="100">
-<img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/73851e9d-2a27-4200-aa76-8359bc1b9eb7" width="100" height="100">
-<img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/32f7de24-467e-43fd-92e2-1a2098e612c9" width="100" height="100">
-<img src="https://github.com/Bornmajor/Bornmajor/assets/98744068/0e8033f9-ff1b-47ae-9c62-2ba04bee2a3f" width="100" height="100">
+## 👨‍💻 About Me
+
+I am a **Mobile Application Engineer** with specialized experience building secure, scalable fintech applications, cross-border remittance engines, and micro-lending platforms. 
+
+* 🚀 **Core Focus**: Cross-platform mobile development with **Flutter** & **React Native**, along with native **Android (Kotlin/Java)**.
+* 🎨 **Design-Centric**: I combine technical precision with product & UX design (Figma) to build accessible, intuitive user interfaces[cite: 1].
+* ⚙️ **Engineering Rigor**: Experienced in Clean Architecture, state management (`BLoC`, `Riverpod`), CI/CD automation (`Fastlane`, `GitHub Actions`), and automated testing (`Patrol`, `Maestro`).
+
+---
+
+### Mobile & Core Languages
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Architecture & Testing
+![BLoC](https://img.shields.io/badge/State_Management-BLoC%20%2F%20Riverpod-blue?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Architecture-Clean%20%2F%20MVVM-success?style=for-the-badge)
+![Patrol](https://img.shields.io/badge/E2E_Testing-Patrol%20%2F%20Maestro-orange?style=for-the-badge)
+
+### DevOps, Cloud & Tooling
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **NafusiteMobileApp** | `Kotlin`, `Jetpack compose`, `MVVM`, `Stateflow` | Designed and developed a native Android application to demonstrate modern Android development practices.[cite: 1]. | <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/Bornmajor/NafusiteMobileApp) |
+
+
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bornmajor&show_icons=true&theme=tokyonight" width="48%" alt="Osborn's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bornmajor&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+* **Website**: [majasociet.netlify.app](https://majasociet.netlify.app/)
+* **LinkedIn**: [Osborn Maja](https://www.linkedin.com/in/osborn-maja-8811a81b3/)
+* **Dribbble (UI/UX)**: [osbornmaja](https://dribbble.com/osbornmaja)
+* **Email**: [osbornmaja@gmail.com](mailto:osbornmaja@gmail.com)
+  
 
 
 
