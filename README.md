@@ -40,11 +40,8 @@ I am a **Mobile Application Engineer** with specialized experience building secu
 
 | Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
-| **NafusiteMobileApp** | `Kotlin`, `Jetpack compose`, `MVVM`, `Stateflow` | Designed and developed a native Android application to demonstrate modern Android development practices.[cite: 1]. | <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/Bornmajor/NafusiteMobileApp) |
-
-
-
----
+| **NafusiteMobileApp** | `Kotlin`, `Jetpack Compose`, `MVVM`, `StateFlow`, `SharedFlow`  | Native Android application built to demonstrate modern Android development practices[cite: 1]. | [<img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" />](https://github.com/Bornmajor/NafusiteMobileApp) |
+| **Tumatuma** | `Flutter`, `BLoC`, `REST APIs`, `Veriff KYC`, `Fastlane` | UK-to-Africa money transfer app engineered with feature-first modular architecture and automated CI/CD pipelines[cite: 1]. | [<img src="https://img.shields.io/badge/Google_Play-412991?style=flat-square&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.tumatuma.app.prod) [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white" />](https://apps.apple.com/us/app/tumatuma/id6781247763)[cite: 1] |
 
 ## 📈 GitHub Stats
 
