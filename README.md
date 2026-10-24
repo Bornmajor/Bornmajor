@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Mobile Application Engineer** with specialized experience building secure, scalable fintech applications, cross-border remittance engines, and micro-lending platforms. 
+I am a **Software Engineer** with specialized experience building secure, scalable fintech applications, cross-border remittance engines, and micro-lending platforms. 
 
 * 🚀 **Core Focus**: Cross-platform mobile development with **Flutter** & **React Native**, along with native **Android (Kotlin/Java)**.
 * 🎨 **Design-Centric**: I combine technical precision with product & UX design (Figma) to build accessible, intuitive user interfaces[cite: 1].
